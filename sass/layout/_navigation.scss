@@ -46,10 +46,7 @@
     }
 
     &__list {
-        position: absolute;
-        top: 50%;
-        left: 50%;
-        transform: translate(-50%, -50%);
+        @include absCenter;
         list-style: none;
         text-align: center;
         width: 100%;
@@ -87,7 +84,6 @@
             color: $color-primary;
             transform: translateX(1rem)
         }
-        
     }
 
     // FUNCTIONALITY
