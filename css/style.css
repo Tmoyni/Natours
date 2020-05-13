@@ -685,7 +685,7 @@ body {
       margin-right: 1.5rem; }
   .footer__link:link, .footer__link:visited {
     color: #f7f7f7;
-    background-attachment: #333;
+    background-color: #333;
     text-decoration: none;
     text-transform: uppercase;
     display: inline-block;
