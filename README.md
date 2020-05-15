@@ -3,5 +3,7 @@ https://www.udemy.com/course/advanced-css-and-sass/learn/lecture/8274412#overvie
 
 
 To edit:
-run: live-server
-run: npm run compile:sass
+<!-- run: live-server
+run: npm run compile:sass -->
+
+npm run start
